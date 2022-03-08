@@ -173,7 +173,7 @@
       "Source": "Custom",
       "SubCategories": [
         {
-          "Id": "9bde32c3-2f0b-4201-b4a3-74cef2c8f61d",
+          "Id": "a1d38276-7b61-4aaf-aa5b-b55bab44cd99",
           "Name": "Teams Integration",
           "Image": "images/categories/AudiocodesDirectRoutingMicrosoftTeams.png",
           "TechnologyId": "",
@@ -182,7 +182,7 @@
           "SubCategories": []
         },
         {
-          "Id": "07aa7fb7-a187-4a04-a044-f881626a8cba",
+          "Id": "9037896c-0fb6-48f2-a99c-a8648b7442a8",
           "Name": "Direct Routing",
           "Image": "images/categories/Audiocodes_Directrouting.PNG",
           "TechnologyId": "",
