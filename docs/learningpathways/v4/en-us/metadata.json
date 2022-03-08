@@ -2,27 +2,27 @@
   "Technologies": [
     {
       "Id": "016a561b-1c7a-4528-b0b7-96fcb556a1e1",
-      "Name": "Audiocodes888",
+      "Name": "Audiocodes",
       "Subjects": []
     },
     {
       "Id": "054bac6f-2670-4cd1-8b38-087ff82754a2",
-      "Name": "Accessibility",
+      "Name": "Poly",
       "Subjects": []
     },
     {
       "Id": "0ae04ffb-5e69-461d-919d-a2215109bf49",
-      "Name": "Office 365",
+      "Name": "Nimbus",
       "Subjects": []
     },
     {
       "Id": "0eb89b8a-87cf-4388-b146-1e073588b029",
-      "Name": "Word",
+      "Name": "Verba",
       "Subjects": []
     },
     {
       "Id": "2f571b54-44fa-4778-9277-c7935e36ffb3",
-      "Name": "Planner",
+      "Name": "Pexip",
       "Subjects": []
     },
     {
@@ -166,7 +166,7 @@
   "Categories": [
     {
       "Id": "e7343b98-6743-481d-ba14-b89df77ff611",
-      "Name": "NewTest Category",
+      "Name": "Audiocodes",
       "Image": "",
       "TechnologyId": "",
       "SubjectId": "",
@@ -174,7 +174,7 @@
       "SubCategories": [
         {
           "Id": "9bde32c3-2f0b-4201-b4a3-74cef2c8f61d",
-          "Name": "First days",
+          "Name": "Teams Integration",
           "Image": "images/categories/first_days.png",
           "TechnologyId": "",
           "SubjectId": "",
@@ -183,7 +183,7 @@
         },
         {
           "Id": "07aa7fb7-a187-4a04-a044-f881626a8cba",
-          "Name": "Recommended",
+          "Name": "Direct Routing",
           "Image": "images/categories/recommended.png",
           "TechnologyId": "",
           "SubjectId": "",
