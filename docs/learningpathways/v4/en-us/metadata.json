@@ -178,7 +178,7 @@
           "Image": "images/categories/AudiocodesDirectRoutingMicrosoftTeams.png",
           "TechnologyId": "",
           "SubjectId": "",
-          "Source": "Microsoft",
+          "Source": "Custom",
           "SubCategories": []
         },
         {
@@ -187,7 +187,7 @@
           "Image": "images/categories/Audiocodes_Directrouting.PNG",
           "TechnologyId": "",
           "SubjectId": "",
-          "Source": "Microsoft",
+          "Source": "Custom",
           "SubCategories": []
         }
       ]
