@@ -181,6 +181,15 @@
           "Source": "Custom",
           "SubCategories": []
         },
+                {
+          "Id": "a1d38276-7b61-4aaf-aa5b-b55bab44cd88",
+          "Name": "Teams Integration22",
+          "Image": "images/categories/AudiocodesDirectRoutingMicrosoftTeams.png",
+          "TechnologyId": "",
+          "SubjectId": "",
+          "Source": "Custom",
+          "SubCategories": []
+        },
         {
           "Id": "9037896c-0fb6-48f2-a99c-a8648b7442a8",
           "Name": "Direct Routing",
